@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/niyazibozkurt/static/css/main.19f109a4.css",
-    "main.js": "/niyazibozkurt/static/js/main.d3f29333.js",
+    "main.js": "/niyazibozkurt/static/js/main.d5f5e627.js",
     "static/media/niyazi.jpg": "/niyazibozkurt/static/media/niyazi.30bf556bdaa8f389228d.jpg",
     "static/media/PinyonScript-Regular.ttf": "/niyazibozkurt/static/media/PinyonScript-Regular.8d81e07e5bc82ec02bf7.ttf",
     "index.html": "/niyazibozkurt/index.html",
     "main.19f109a4.css.map": "/niyazibozkurt/static/css/main.19f109a4.css.map",
-    "main.d3f29333.js.map": "/niyazibozkurt/static/js/main.d3f29333.js.map"
+    "main.d5f5e627.js.map": "/niyazibozkurt/static/js/main.d5f5e627.js.map"
   },
   "entrypoints": [
     "static/css/main.19f109a4.css",
-    "static/js/main.d3f29333.js"
+    "static/js/main.d5f5e627.js"
   ]
 }
