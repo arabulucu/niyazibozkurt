@@ -14,8 +14,8 @@ class Navbar extends React.Component {
                     <div class="omer">
                         <a style={{fontWeight: "bolder" }} href="#services">Uzmanlıklar</a>
                         <a style={{ fontWeight: "bolder" }} href="#about">Hakkımda</a>
+                       <a style={{ fontWeight: "bolder"}} href="https://arabulucu.streamlit.app/" target="_blank" rel="noreferrer">Hesaplama</a>
                         <a style={{ fontWeight: "bolder" }} href="#contact">İletişim</a>
-                        <a style={{ fontWeight: "bolder"}} href="https://arabulucu.streamlit.app/" target="_blank" rel="noreferrer">Hesaplama</a>
                         </div>
                 </div>
             </div>
